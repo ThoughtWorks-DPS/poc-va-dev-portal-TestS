@@ -1,0 +1,8 @@
+site_name: "Test_adding_doc_to_VA"
+site_description: "Add_Doc"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
